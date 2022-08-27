@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mega Sena</string>
+    <string name="title">Boa Sorte</string>
+    <string name="numberHint">Digite um número entre 6 e 15</string>
+    <string name="numberGenerator">Gerar Números</string>
+</resources>
